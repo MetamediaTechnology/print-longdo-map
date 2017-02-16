@@ -1,2 +1,5 @@
 # print-longdo-map
-Demo code on printing maps from Longdo Map API
+
+This is a demo of how to use html2canvas to print out map from Longdo Map API
+
+Metamedia Technology
